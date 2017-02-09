@@ -1,8 +1,4 @@
 /*************************************************************************
- * Name(s)      : Daniel Spence
- * NetID(s)     : dspence
- * Precept(s)   : Section J
- *
  * Dependencies : RingBuffer
  * Description  : 
  *  this will create a simulated guitar string at the given frequency.
